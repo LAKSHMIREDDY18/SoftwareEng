@@ -17,3 +17,4 @@ The **BankAccount** project implements a simple bank account system in C++ with 
 To compile the program using g++:
 ```sh
 g++ -o bankaccount bankaccount.cpp
+bankaccount file
